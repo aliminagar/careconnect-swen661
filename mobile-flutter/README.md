@@ -164,7 +164,7 @@ The generated `coverage/html/index.html` (from the command above) has the same n
 
 ## Known issues and limitations
 
-- **TalkBack/VoiceOver has not been tested on a physical device or emulator with a screen reader running**, only via the semantic properties (`Semantics`, `semanticLabel`, `tooltip`) set in the widget code and exercised by `find.bySemanticsLabel` in a couple of the widget tests.
+- **TalkBack was manually tested on an Android emulator** in the Week 6 walkthrough; see [`docs/week6/ACCESSIBILITY_TEST_REPORT.md`](../docs/week6/ACCESSIBILITY_TEST_REPORT.md) and [`MAESTRO_EVIDENCE.md`](../docs/week6/MAESTRO_EVIDENCE.md). **iOS VoiceOver has not been tested** in the evidence located for this submission. Repeat the manual checks on the final builds before claiming current cross-platform assistive-technology coverage.
 - **The assistant chat on the Landing screen is a scripted, canned-reply demo**, not a real chatbot integration and is really just a placeholder from the initial CareConnect design.
 
 ## Team contributions (Week 4)

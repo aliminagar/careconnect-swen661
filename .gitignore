@@ -17,13 +17,23 @@ artifacts/
 # Claude Code local settings (machine-specific, not shared with the team)
 .claude/settings.local.json
 
-# Office documents and recordings. Submission documents (VPAT, submission
-# items) and screen-reader videos are delivered through the course site,
-# not this repository.
+# Office documents and recordings are normally delivered through the course
+# site. Keep the requested desktop VPAT Word deliverable in this repository.
 *.docx
+!docs/week9/CARECONNECT_DESKTOP_VPAT.docx
+!docs/week9/CARECONNECT_DESKTOP_VPAT_Week9_Updated.docx
+!docs/week9/CARECONNECT_DESKTOP_VPAT_Week9_Formatted.docx
+!docs/week9/CARECONNECT_DESKTOP_VPAT_Week9_With_Results.docx
+!docs/week10/PART3_PERFORMANCE_SEO.docx
+!docs/week11/Team1_Week11_Part4_Performance_SEO.docx
+!docs/week11/Team1_Week11_Part4_Performance_SEO_Live_Update.docx
+!docs/week11/Team1_Week11_Part4_Performance_SEO_2026-11-01.docx
+!docs/week12/CareConnect_Mobile_WCAG21_AA_VPAT.docx
+!docs/week12/CareConnect_Web_WCAG21_AA_VPAT.docx
+*.pdf
+!docs/week9/CARECONNECT_DESKTOP_VPAT.pdf
 *.xlsx
 *.pptx
-*.pdf
 *.mp4
 *.mov
 ~$*

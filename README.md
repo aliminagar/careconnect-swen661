@@ -33,6 +33,10 @@ careconnect-swen661-T1/
 
 **Week 8 (Electron desktop):** setup, testing and packaging are in [desktop-electron/README.md](desktop-electron/README.md), and the submission index (architecture, test report, accessibility testing) is in [docs/week8/README.md](docs/week8/README.md).
 
+**Week 10 (responsive web):** the Part 3 performance and SEO plan is available as [editable Markdown](docs/week10/PART3_PERFORMANCE_SEO.md) and [Word](docs/week10/PART3_PERFORMANCE_SEO.docx); it documents proposed performance budgets, image and code-loading strategy, social metadata, and sitemap/robots structure.
+
+**Week 12 (final documentation):** the [Part 3 submission index](docs/week12/README.md) links to the user and developer guides and WCAG 2.1 A/AA conformance reports for Flutter/React Native, Electron, and React web. It also records evidence limits and remaining human verification.
+
 The two mobile toolchains are compared in [docs/rn-vs-flutter-comparison.md](docs/rn-vs-flutter-comparison.md);
 
 ## Setup instructions

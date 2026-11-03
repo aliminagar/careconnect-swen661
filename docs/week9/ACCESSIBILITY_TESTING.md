@@ -4,6 +4,8 @@ Target: WCAG 2.1 Level AA. Branch: `feat/electron-accessibility-wk9`. Builds tes
 
 Part 2 (fixes) and Part 3 (VPAT) use the findings in section 4 as their work list.
 
+The Part 3 desktop accessibility conformance report is available in editable [Markdown](CARECONNECT_DESKTOP_VPAT.md), generated [Word](CARECONNECT_DESKTOP_VPAT_Week9_With_Results.docx), and [PDF](CARECONNECT_DESKTOP_VPAT.pdf) formats. It covers every WCAG 2.1 Level A and AA success criterion, distinguishes tested conformance from pending verification, and records limitations and workarounds.
+
 ## 1. Automated testing (axe)
 
 The renderer was scanned with axe-core (the engine used by axe DevTools) at 1440 x 900 in light and dark themes, using the `wcag2a`, `wcag2aa`, `wcag21a`, `wcag21aa`, `wcag22aa` and `best-practice` rule sets.

@@ -7,6 +7,11 @@ and maps the app's features to the WCAG 2.1 Level A / AA success criteria they s
 Every pattern described here is taken from the current source code; file references are
 given so each claim can be traced back to the implementation.
 
+This is a feature-reference document covering selected criteria, not the complete
+criterion-by-criterion VPAT. The Week 12 report with all 50 WCAG 2.1 Level A and AA
+criteria and the evidence/limitations for each platform is in
+[`docs/week12/`](../docs/week12/README.md).
+
 CareConnect is a daily-companion app for **care recipients** (people who benefit from a
 clear, low-pressure view of their day — including those living with short-term memory
 loss) and their **caregivers**. Accessibility is therefore not an add-on but a core design
